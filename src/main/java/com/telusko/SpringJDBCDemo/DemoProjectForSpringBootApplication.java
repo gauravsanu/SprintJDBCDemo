@@ -8,7 +8,7 @@ import com.telusko.SpringJDBCDemo.model.Alien;
 import com.telusko.SpringJDBCDemo.repo.AlienRepo;
 
 @SpringBootApplication
-public class DemoProjectForSpringBootApplication {
+public class DemoProjectForSpringBootApplication{
 
 	public static void main(String[] args) {
 		ApplicationContext context =  SpringApplication.run(DemoProjectForSpringBootApplication.class, args);
